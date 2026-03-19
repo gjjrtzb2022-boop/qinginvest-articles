@@ -1,0 +1,36 @@
+---
+slug: "zhihu-article-563002994"
+title: "74篇.高级黑，可以有多黑？深不见底的黑"
+date: "2022-09-09"
+series: "未分类系列"
+category: "待整理"
+status: "unread"
+tags:
+  - "待整理"
+  - "文章"
+  - "短内容"
+industries: []
+stocks: []
+cover: "/images/articles/zhihu-article-563002994/images/img_001.jpg"
+summary: "文章围绕74篇.高级黑，可以有多黑？深不见底的黑展开。作者的核心观点是：深不见底的黑 刘道玉：我被免去武汉大学校长的真实原因。文中结合具体经历与情境变化，对这一观点进行了展开说明。"
+source: "zhihu"
+source_url: "http://zhuanlan.zhihu.com/p/563002994"
+source_platform: "知乎"
+author: "清一投资号"
+---
+
+原雪球专栏113篇.高级黑，可以有多黑？深不见底的黑
+
+![image](zhihu-article-563002994/images/img_001.jpg)
+
+![image](zhihu-article-563002994/images/img_002.jpg)
+
+![image](zhihu-article-563002994/images/img_003.jpg)
+
+![image](zhihu-article-563002994/images/img_006.jpg)
+
+![image](zhihu-article-563002994/images/img_004.jpg)
+
+![image](zhihu-article-563002994/images/img_005.jpg)
+
+[刘道玉：我被免去武汉大学校长的真实原因](http://link.zhihu.com/?target=http%3A//ms390523.blogchina.com/838829698.html)

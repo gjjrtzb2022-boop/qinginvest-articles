@@ -1,0 +1,49 @@
+---
+slug: "zhihu-article-505901339"
+title: "17篇.中建股东数历史新低"
+date: "2022-04-27"
+series: "未分类系列"
+category: "待整理"
+status: "unread"
+tags:
+  - "待整理"
+  - "文章"
+industries: []
+stocks: []
+cover: "/images/articles/zhihu-article-505901339/images/img_001.jpg"
+summary: "文章围绕17篇.中建股东数历史新低展开。作者的核心观点是：17篇.中建股东数历史新低 清一山长 2022年4月19日 很意外的发现：中国建筑的股东人数，只有45万了。文中结合具体经历与情境变化，对这一观点进行了展开说明。文章想传达的是：吸引了大批散户，而且洗不掉。"
+source: "zhihu"
+source_url: "http://zhuanlan.zhihu.com/p/505901339"
+source_platform: "知乎"
+author: "清一投资号"
+---
+
+![image](zhihu-article-505901339/images/img_001.jpg)
+
+17篇.中建股东数历史新低
+
+清一山长 2022年4月19日
+
+![image](zhihu-article-505901339/images/img_002.jpg)
+
+很意外的发现：中国建筑的股东人数，只有45万了。最近几个月流失了10万人，是上市以来的最低人数。2010年最高的股东人数是148万人。2014年的最低点—上证2000点位置，中国建筑也有70万人。2015年的高点，中建也有140万人。现在，已经冲过了6元，居然股东只剩45万人了？**历史新低**。所以：中国建筑应该快真正的上涨了。**散户没有的股，就会大涨。散户多，主力就不拉升。**
+
+我怀疑，燕京不涨真的怪我。吸引了大批散户，而且洗不掉。主力放弃了拉升[大笑]。当然，我认为这是笑话。
+
+![image](zhihu-article-505901339/images/img_003.jpg)
+
+![image](zhihu-article-505901339/images/img_004.jpg)
+
+![image](zhihu-article-505901339/images/img_005.jpg)
+
+![image](zhihu-article-505901339/images/img_006.jpg)
+
+![image](zhihu-article-505901339/images/img_007.jpg)
+
+**附录：相关文章**
+
+**整理文章 **[《第13篇中国建筑对话录：不养独子》 链接zhuanlan.zhihu.com/p/463971765](https://zhuanlan.zhihu.com/p/463971765)
+
+**整理文章 **[《第19篇.涨停之际，谈我的啤酒股投资逻辑》 链接zhuanlan.zhihu.com/p/477378802](https://zhuanlan.zhihu.com/p/477911616)
+
+![image](zhihu-article-505901339/images/img_008.jpg)

@@ -1,0 +1,65 @@
+---
+slug: "zhihu-article-564749726"
+title: "12篇.中国建筑系列之十：综合对比下中建的长远价值"
+date: "2022-09-15"
+series: "未分类系列"
+category: "待整理"
+status: "unread"
+tags:
+  - "待整理"
+  - "文章"
+industries: []
+stocks: []
+cover: "/images/articles/zhihu-article-564749726/images/img_001.jpg"
+summary: "文章围绕12篇.中国建筑系列之十：综合对比下中建的长远价...展开。作者的核心观点是：（整理文） 清一投资号：8篇．建筑的股性正在激活中（整理文） 清一投资号：13篇.中国建筑对话录：不养独子...。文中结合具体经历与情境变化，对这一观点进行了展开说明。"
+source: "zhihu"
+source_url: "http://zhuanlan.zhihu.com/p/564749726"
+source_platform: "知乎"
+author: "清一投资号"
+---
+
+![image](zhihu-article-564749726/images/img_001.jpg)
+
+12篇.中国建筑系列之十：综合对比下中建的长远价值
+
+清一山长2020年11月30日～2021年01月16日
+
+![image](zhihu-article-564749726/images/img_002.jpg)
+
+![image](zhihu-article-564749726/images/img_003.jpg)
+
+![image](zhihu-article-564749726/images/img_004.jpg)
+
+![image](zhihu-article-564749726/images/img_005.jpg)
+
+标题为编者所加
+
+参考链接：
+
+[清一投资号：1篇.中建背后的神秘大手](https://zhuanlan.zhihu.com/p/481078141)（整理文）
+
+[清一投资号：3篇.中国建筑系列之一：就算是好股，也别谈恋爱](https://zhuanlan.zhihu.com/p/512602669)（整理文）
+
+[清一投资号：4篇.中国建筑系列之二：大A股的稳定器](https://zhuanlan.zhihu.com/p/519506160)（整理文）
+
+[清一投资号：5篇.中国建筑系列之三：发现投资机会的方法](https://zhuanlan.zhihu.com/p/522851722)（整理文）
+
+[清一投资号：6篇.中国建筑系列之四：只有少数人才知道正确的通道](https://zhuanlan.zhihu.com/p/522882446)（整理文）
+
+[清一投资号：7篇.中国建筑系列之五：投资中建的核心逻辑和理由](https://zhuanlan.zhihu.com/p/528942534)（整理文）
+
+[清一投资号：8篇.中国建筑系列之六：熊市布局，牛市收获](https://zhuanlan.zhihu.com/p/534585889)（整理文）
+
+[清一投资号：9篇.中国建筑系列之七：每个人都应有自己的投资逻辑](https://zhuanlan.zhihu.com/p/538090859)（整理文）
+
+[清一投资号：10篇.中国建筑系列之八：为自己的投资负完全的责任](https://zhuanlan.zhihu.com/p/549316895)（整理文）
+
+[清一投资号：11篇.中国建筑系列之九：如何用融资投资中国建筑？](https://zhuanlan.zhihu.com/p/559571938)（整理文）
+
+[清一投资号：8篇．建筑的股性正在激活中](https://zhuanlan.zhihu.com/p/476832159)（整理文）
+
+[清一投资号：13篇.中国建筑对话录：不养独子](https://zhuanlan.zhihu.com/p/463971765) （整理文）
+
+[清一投资号：17篇.中建股东数历史新低](https://zhuanlan.zhihu.com/p/505901339)（整理文）
+
+![image](zhihu-article-564749726/images/img_006.jpg)

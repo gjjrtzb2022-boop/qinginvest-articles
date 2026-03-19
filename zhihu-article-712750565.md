@@ -1,0 +1,55 @@
+---
+slug: "zhihu-article-712750565"
+title: "13篇.买卖操作后的富足之心"
+date: "2024-08-05"
+series: "未分类系列"
+category: "待整理"
+status: "unread"
+tags:
+  - "待整理"
+  - "文章"
+industries: []
+stocks: []
+cover: "/images/articles/zhihu-article-712750565/images/img_001.jpg"
+summary: "文章围绕13篇.买卖操作后的富足之心展开。作者的核心观点是：清一投资号：14篇.啤酒系列7：珠江的破位急跌，名曰跌停进货法。文中结合具体经历与情境变化，对这一观点进行了展开说明。"
+source: "zhihu"
+source_url: "http://zhuanlan.zhihu.com/p/712750565"
+source_platform: "知乎"
+author: "清一投资号"
+---
+
+![image](zhihu-article-712750565/images/img_001.jpg)
+
+13篇.买卖操作后的富足之心
+
+![image](zhihu-article-712750565/images/img_002.jpg)
+
+![image](zhihu-article-712750565/images/img_003.jpg)
+
+![image](zhihu-article-712750565/images/img_004.jpg)
+
+![image](zhihu-article-712750565/images/img_005.jpg)
+
+![image](zhihu-article-712750565/images/img_006.jpg)
+
+![image](zhihu-article-712750565/images/img_007.jpg)
+
+参考链接：
+
+[燕京走势果然神鬼难料\[表情\]](https://www.zhihu.com/pin/1604810289215668226)
+
+[发表今天的想法，就是非常的感谢，感谢这…](https://www.zhihu.com/pin/1604504352521158656)
+
+[清一投资号：8篇.啤酒系列1：初谈燕京](https://zhuanlan.zhihu.com/p/594537053)
+
+[清一投资号：9篇.啤酒系列2：起码十年不涨就值得一起守候了](https://zhuanlan.zhihu.com/p/596134341)
+
+[清一投资号：10篇.啤酒系列3：顺鑫快速拉升引发的啤酒讨论](https://zhuanlan.zhihu.com/p/597816918)
+
+[清一投资号：11篇.啤酒系列4：连连出台的质疑文让我加紧了买啤酒的行动](https://zhuanlan.zhihu.com/p/598382916)
+
+[清一投资号：12篇.啤酒系列5：早期珠江啤酒、燕京啤酒的换仓记录](https://zhuanlan.zhihu.com/p/602033762)?
+
+[清一投资号：14篇.啤酒系列7：珠江的破位急跌，名曰跌停进货法](https://zhuanlan.zhihu.com/p/606062514)
+
+![image](zhihu-article-712750565/images/img_008.jpg)

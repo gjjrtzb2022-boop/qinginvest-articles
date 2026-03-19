@@ -1,0 +1,28 @@
+---
+slug: "zhihu-article-562868527"
+title: "48篇.确保账户绝对安全才考虑融资"
+date: "2022-09-09"
+series: "未分类系列"
+category: "待整理"
+status: "unread"
+tags:
+  - "待整理"
+  - "文章"
+  - "短内容"
+industries: []
+stocks: []
+cover: "/images/articles/zhihu-article-562868527/images/img_001.jpg"
+summary: "文章围绕48篇.确保账户绝对安全才考虑融资展开。作者的核心观点是：48篇.使用融资先要确保不爆仓。"
+source: "zhihu"
+source_url: "http://zhuanlan.zhihu.com/p/562868527"
+source_platform: "知乎"
+author: "清一投资号"
+---
+
+48篇.使用融资先要确保不爆仓
+
+![image](zhihu-article-562868527/images/img_001.jpg)
+
+![image](zhihu-article-562868527/images/img_002.jpg)
+
+![image](zhihu-article-562868527/images/img_003.jpg)
